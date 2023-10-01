@@ -1,17 +1,29 @@
 ### Hi there 👋
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
 
-<!--
-**manish-neemnarayan/manish-neemnarayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm Manish
+[![GitHub followers](https://img.shields.io/github/followers/manish-neemnarayan?style=social)](https://github.com/yourusername)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ishn_ish?style=social)](https://twitter.com/ishn_ish)
 
-Here are some ideas to get you started:
+I'm a passionate full-stack developer with over 1 year of experience in backend development with Node.js. I love building robust and scalable applications that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+- **Backend**: Node.js, Express.js
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Databases**: MongoDB, MySQL
+- **Version Control**: Git, GitHub
+- **Deployment**: AWS
+
+## 📫 Contact Me
+
+- Email: [manish9301kumar@gmail.com](mailto:manish93@gmail.com)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/manish-neemnarayan-883979178/)
+- Portfolio: [FrontEnd Portfolio Website](https://manish-neemnarayan.vercel.app/)
+
+## 📈 GitHub Stats
+
+![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manish-neemnarayan&show_icons=true&theme=dark)
+
+
+
+Feel free to reach out to me for collaborations or just to say hi! 😊
