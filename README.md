@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hi there! 👋 I'm Manish
 [![GitHub followers](https://img.shields.io/github/followers/manish-neemnarayan?style=social)](https://github.com/yourusername)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ishn_ish?style=social)](https://twitter.com/ishn_ish)
