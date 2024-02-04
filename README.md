@@ -6,17 +6,16 @@ I'm a passionate full-stack developer with over 1 year of experience in backend 
 
 ## 🔧 Skills
 
-- **Backend**: Node.js, Express.js
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Databases**: MongoDB, MySQL
+- **Backend**: Node.js, Express.js, SQS, 
+- **Frontend**: HTML, CSS, JavaScript
+- **Databases**: MongoDB(Aggregation Queries), MySQL
 - **Version Control**: Git, GitHub
-- **Deployment**: AWS
+- **Deployment**: AWS, EC2, S3
 
 ## 📫 Contact Me
 
 - Email: [manish9301kumar@gmail.com](mailto:manish93@gmail.com)
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/manish-neemnarayan-883979178/)
-- Portfolio: [FrontEnd Portfolio Website](https://manish-neemnarayan.vercel.app/)
 
 ## 📈 GitHub Stats
 
