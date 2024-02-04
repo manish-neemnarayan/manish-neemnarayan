@@ -2,7 +2,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/manish-neemnarayan?style=social)](https://github.com/yourusername)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ishn_ish?style=social)](https://twitter.com/ishn_ish)
 
-I'm a passionate full-stack developer with over 1 year of experience in backend development with Node.js. I love building robust and scalable applications that solve real-world problems.
+I'm a passionate full-stack developer with over >1 year of experience in backend development with Node.js. I love building robust and scalable applications that solve real-world problems.
 
 ## 🔧 Skills
 
