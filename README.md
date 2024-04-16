@@ -6,11 +6,12 @@ I'm a passionate full-stack software developer with over >2 years. I love buildi
 
 ## 🔧 Skills
 
-- **Backend**: Node.js, Express.js, SQS, 
+- **Backend**: Golang, Node.js, Express.js, SQS, 
 - **Frontend**: HTML, CSS, JavaScript
-- **Databases**: MongoDB(Aggregation Queries), MySQL
+- **Databases**: MongoDB(Aggregation Queries), PgSql, MySQL
 - **Version Control**: Git, GitHub
-- **Deployment**: AWS, EC2, S3
+- **Deployment**: AWS, EC2, S3, SNS
+
 
 ## 📫 Contact Me
 
